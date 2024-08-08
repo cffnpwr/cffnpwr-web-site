@@ -1,0 +1,7 @@
+{
+	"name": "Devcontainer Bun",
+	"image": "mcr.microsoft.com/devcontainers/base:bookworm",
+	"features": {
+    "ghcr.io/prulloac/devcontainer-features/bun:1.1.2": {}
+  },
+}
